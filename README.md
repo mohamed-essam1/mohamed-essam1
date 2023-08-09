@@ -4,7 +4,7 @@
 
 <div id="header" align="center">
 
-  <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="50%"/>
+  <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="35%"/>
 </div>
 
 <p align='center'>
